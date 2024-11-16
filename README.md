@@ -1,4 +1,4 @@
- 📈 Automated Reporting and Data Pipeline with SQL and Python
+## 📈 Automated Reporting and Data Pipeline with SQL and Python
 
 Objective : Create an automated data pipeline to streamline the collection, transformation, and reporting of key business metrics.
 
